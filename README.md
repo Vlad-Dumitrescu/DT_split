@@ -6,7 +6,7 @@ Any other countries or country arrays can be added and removed at any time with 
 
 What also needs to be done is edit the first few lines of the first three modules, in order to help the macro find the correct WW file.
 
-Working with MacOS, I encountered many many issues along the way (Thank you Reddit for the help!!).
+Working with MacOS, I encountered many many issues along the way (Thank you /u/ITFuture for the help!!).
 
 Ultimately, I chose to have the macro save the new files to /Users/JohnDoe/Library/Containers/com.microsoft.Excel/Data/Documents/
 
